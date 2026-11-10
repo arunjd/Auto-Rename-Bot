@@ -6,11 +6,11 @@
     "repository": "https://github.com/JishuDeveloper/Auto-Rename-Bot",
     "env": {
         "API_ID": {
-            "description": "Your APP ID From my.telegram.org ",
+            "description": "22577441",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org ",
+            "description": "d0df7c1ba9f5f6e2dd93abc16f3dead9",
             "value": ""
         },
         "WEBHOOK": {
@@ -23,22 +23,22 @@
             "required": false 
         },
         "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "9206783814:AAEOMA7EPNnxH9ajKiedHVyH8X2NMJHGo20",
             "value": ""
         },
         "ADMIN": {
-            "description":"Add Your User ID multiple is use space to split"
+            "description":"6240955247"
         },
         "LOG_CHANNEL": {
             "description":"Bot Log Sending Channel (just create a private channel and add bot to admin and take channel id to add this variable) ⚠️ id startswith -100 must",
             "required": false           
         },
         "DB_URL": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "description": "mongodb+srv://a4darkcool:Arun@3435@cluster0.uhm6ycn.mongodb.net/?retryWrites=true&w=majority",
             "value": ""
         },
         "DB_NAME":{ 
-            "description":"Your Mongo DB Database Name ",
+            "description":"a4darkcool",
             "value": "",
             "required": false
         },
